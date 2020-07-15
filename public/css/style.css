@@ -1,0 +1,14 @@
+html {
+    position: relative;
+    min-height: 100%;
+    background-color: aqua;
+}
+
+body {
+    margin-bottom: 80px;
+    background-color: rgb(196, 236, 255);
+}
+
+.container{
+    background-color: aqua;
+}
