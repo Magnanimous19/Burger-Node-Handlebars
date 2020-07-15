@@ -1,9 +1,6 @@
 {
   "name": "14-burger-node-handlebars",
   "version": "1.0.0",
-  "engines": {
-    "node": "12.x"
-  },
   "description": "## Description This is a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). Be sure to follow the MVC design pattern; use Node and MySQL to query and route data in your app, and Handlebars to generate your HTML.",
   "main": "server.js",
   "scripts": {
@@ -26,5 +23,8 @@
     "express-handlebars": "^5.0.0",
     "method-override": "^3.0.0",
     "mysql": "^2.18.1"
+  },
+  "engines": {
+    "node": "12.x"
   }
 }
